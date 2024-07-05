@@ -13,9 +13,11 @@ A proposta foi criar um podcast com o auxílio de IAs.
 <p>
   <audio controls>
     <source src="outputs/podcast_editado.MP3" type="audio/mp3">
-    Erro: O áudio não pode ser reproduzido. Para ouvir o áudio do podcast, siga o caminho da pasta outputs e acesse o arquivo <b>podcast_editado.mp3</b> neste repositório. 
+    Erro: O áudio não pode ser reproduzido. Para ouvir o áudio do podcast, siga o caminho da pasta outputs e acesse o arquivo <b>podcast_editado.mp3</b> neste repositório. Ou acesse o link abaixo: 
   </audio>
 </p>
+
+[Ouça o podcast](outputs/podcast_editado.MP3)
 
 ## Tecnologias utilizadas no projeto
 ### Ferramentas com IA utilizadas 
