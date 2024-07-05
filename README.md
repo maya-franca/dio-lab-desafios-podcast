@@ -116,8 +116,12 @@ A edição do áudio foi feita por mim no CapCut, com adição de música, efeit
 
 Para a imagem, criei um logo do zero a partir delas no Illustrator. Usei o site Pixilart para desenhar o robô da imagem. 
 
-*O desafio pede o uso de IAs de geração de imagem para a resolução da imagem de capa, como o MidJourney, mas não consegui usar devido à sobrecarga da ferramenta e não possuir assinatura. Usei algumas outras ferramentas de geração de imagem de IA (Copilot Design) apenas para inspiração da imagem da capa e robô. 
+*O desafio pede o uso de IAs de geração de imagem para a resolução da imagem de capa, como o MidJourney, mas não consegui usar devido à sobrecarga da ferramenta e não possuir assinatura. Usei algumas outras ferramentas de geração de imagem de IA (Copilot Design) apenas para usar como inspirações para a imagem da capa e robô. 
 
 ---
 
 <p align="center">Este foi o meu projeto do desafio, espero que goste! :blue_heart:</p>
+
+<p align="center">
+    <img src="assets/encerramento.png" alt="Robô" style="width: 100px;">
+</p>
