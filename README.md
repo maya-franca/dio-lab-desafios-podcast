@@ -1,4 +1,4 @@
-# Dio Lab: Podcast gerado com o auxílio de IAs
+# DIO Lab: Podcast gerado com o auxílio de IAs
 Este projeto é um podcast para uma das aulas do bootcamp Fundamentos de IA para Devs da plataforma DIO, em parceria com o Santander. A proposta foi criar um podcast com o auxílio de IAs.
 
 ## O podcast: Conversa de Pixel
@@ -22,7 +22,7 @@ Este projeto é um podcast para uma das aulas do bootcamp Fundamentos de IA para
 - [ChatGPT](https://openai.com/chatgpt/): para gerar roteiro e ideias de nome; 
 - [ElevenLabs](https://elevenlabs.io/): áudio do podcast;
 
-### Ferramentas utilizadas
+### Ferramentas utilizadas (sem IA)
 - [Capcut](https://www.capcut.com/): edição e cortes do áudio, adição de música e efeitos; 
 - [Illustrator](https://www.adobe.com/br/products/illustrator.html): criação do logo, ícone e imagem de capa; 
 - [Pixilart.com](https://www.pixilart.com/): Para desenhar o robô. 
