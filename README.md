@@ -1,7 +1,5 @@
 # Dio Lab: Podcast gerado com o auxílio de IAs
-Este projeto é um podcast para uma das aulas do bootcamp Fundamentos de IA para Devs da plataforma DIO, em parceria com o Santander. 
-
-A proposta foi criar um podcast com o auxílio de IAs.
+Este projeto é um podcast para uma das aulas do bootcamp Fundamentos de IA para Devs da plataforma DIO, em parceria com o Santander. A proposta foi criar um podcast com o auxílio de IAs.
 
 ## O podcast: Conversa de Pixel
 <p align="center">
@@ -76,11 +74,11 @@ Vamos falar sobre alguns princípios fundamentais do design responsivo: Grade Fl
 
 ---
 
-**Teste em Diversos Dispositivos:** Não se limite a testar seu design apenas no seu computador. Use emuladores e dispositivos reais para garantir que tudo funcione bem em diferentes telas.
+**Grade flexível:** Utilizar uma grade que se ajuste proporcionalmente ao tamanho da tela, em vez de usar pixels fixos, use unidades relativas como porcentagens. Isso permite que o layout se mantenha consistente e funcional em qualquer dispositivo, proporcionando uma melhor experiência ao usuário.
 
-**Priorize o Conteúdo:** Em telas menores, menos é mais. Foque no conteúdo essencial e simplifique o design para melhorar a usabilidade.
+**Imagens Flexíveis:** Imagens e outros elementos de mídia também devem ser redimensionados proporcionalmente. Use a propriedade CSS max-width: 100%; para garantir que as imagens não ultrapassem o contêiner.
 
-**Adote uma Abordagem Mobile-First:** Comece desenhando para dispositivos móveis e, em seguida, expanda para telas maiores. Isso ajuda a garantir que seu design funcione bem em qualquer contexto.
+**Media Queries:** As media queries são regras no CSS que aplicam estilos diferentes com base nas características do dispositivo, como largura da tela. Isso permite adaptar o layout para diferentes resoluções.
 
 ---
 
